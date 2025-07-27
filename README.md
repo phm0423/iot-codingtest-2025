@@ -121,3 +121,31 @@ IoT 개발자 코딩테스트 준비 리포지토리
 ## 2일차 - 코테 정복시작
 
 ### 배열
+- 다른 언어와 달리 파이썬은 배열이 없음! 리스트 사용해서 배열로 대체 사용
+- [링크]
+
+### 프로그래머스 코테 진행
+1. solution.py 내 에디터에서 코딩 진행
+2. `코드실행`
+    - 실패
+
+        <img src="./image/ct0001.png" width="600">
+    
+    - 성공
+
+        <img src="./image/ct0002.png" width="500">
+
+3. `제출 후 채점하기` 클릭
+    - 테스트케이스 9번 반복
+    - 하나라도 실패하면 통과 못함. 정부통과
+
+    <img src="./image/ct0003.png" width="400">
+
+4. 다른 사람의 풀이 보기 가능(점수 차감X)
+
+### 모의 테스트
+1. [두 개 뽑아서 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/68644) 
+2. [방문 길이](https://school.programmers.co.kr/learn/courses/30/lessons/49994) 
+
+### 스택
+- LIFO
