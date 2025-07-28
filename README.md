@@ -72,7 +72,7 @@ IoT 개발자 코딩테스트 준비 리포지토리
 - 자동완성 기능 없음! VS Code에 익숙한 사람은 프로그래머스에서 연습을 더 해야함
 
 ##### 프로그래머스 사용법
-1. http://scholl.programmers.co.kr 진입
+1. http://school.programmers.co.kr 진입
 2. 회원가입(생략)
 3. 로그인 후 코딩테스트 메뉴
 4. 스킬체크 시작
@@ -148,4 +148,15 @@ IoT 개발자 코딩테스트 준비 리포지토리
 2. [방문 길이](https://school.programmers.co.kr/learn/courses/30/lessons/49994) 
 
 ### 스택
-- LIFO
+- LIFO: 맨 나중에 추가한 데이터가 가장 먼저 출력되는 구조
+- push(): 데이터 삽입. 쌓여있는 데이터 마지막에 추가
+- pop(): 데이터 추출. 쌓여있는 데이터 마지막에서 추출
+- [링크](./day02/02_스택.ipynb)
+
+## 3일차 - 코테 정복시작
+
+### 깃헙 팁
+- http://github.com/자신아이디 주소에 com -> dev
+    - 브라우저 상에서 온라인 VS Code가 실행
+    - 로컬 VS Code와 동일하게 사용가능
+    - Python 플러그인은 차후 다시 확인
