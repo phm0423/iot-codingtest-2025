@@ -159,6 +159,18 @@ IoT 개발자 코딩테스트 준비 리포지토리
 - http://github.com/자신아이디 주소에 com -> dev
     - 브라우저 상에서 온라인 VS Code가 실행
     - 로컬 VS Code와 동일하게 사용가능
-    - Python 플러그인은 차후 다시 확인
+    - 처음 Ctrl + F5로 실행, CodeSpace 설정, CPU 2Core, 8Gb... 등 선택하고 코드스페이스 생성
+
+    <img src="./image/ct0004.png" width = "700">
+
 
 ### 스택
+- 몸풀기 문제, 모의 테스트
+- 제출 후 채점하기에서 print()문 제거 또는 주석처리할 것(효율성 테스트)
+- [링크](./day03/01_스택.ipynb)
+
+### 큐
+- FIFO: 맨 먼저 추가한 데이터가 가장 먼저 출력되는 구조
+- enQueue(): 데이터 삽입.
+- deQueue(): 데이터 추출.
+- [링크](./day03/02_큐.ipynb)
